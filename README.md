@@ -22,26 +22,20 @@ Projetos desenvolvidos a partir de problemas, processos ou ambientes de organiza
 
 ### Vovó Eva Orgânicos
 **Modelagem e Desenvolvimento de Software**  
-E-commerce desenvolvido a partir de contexto empresarial real, envolvendo levantamento de requisitos, modelagem de dados, prototipagem UI/UX e desenvolvimento de solução digital para otimização da jornada do usuário.  
+Desenvolvimento de solução de e-commerce a partir de contexto empresarial real, envolvendo levantamento de requisitos, modelagem de dados, prototipagem UI/UX e validação de processos de negócio.  
 **Competências:** Engenharia de Requisitos · Modelagem de Dados · UI/UX · SQL  
 [Ver repositório do projeto →](#)
 
-### Planejamento Estratégico e Plano Diretor de TI (PDTI)
+### Diagnóstico e Plano de Governança de TI e GRC
 **Projeto Aplicado em Contexto Empresarial**  
-Estruturação de planejamento estratégico de TI, incluindo diagnóstico organizacional, definição de portfólio, indicadores (KPIs) e roadmap tecnológico para alinhamento entre TI e objetivos de negócio.  
-**Competências:** Governança de TI · PDTI · COBIT · ITIL · Balanced Scorecard (BSC)  
-[Ver repositório do projeto →](#)
-
-### Governança de TI, Gestão de Riscos e Conformidade (GRC)
-**Projeto Aplicado em Contexto Empresarial**  
-Avaliação e estruturação de práticas de governança, riscos, controles e conformidade em ambiente corporativo real, com foco na evolução da maturidade organizacional e mitigação de riscos operacionais.  
-**Competências:** GRC · Auditoria de TI · Gestão de Riscos · COBIT · ITIL · ISO 20000  
+Avaliação de maturidade de processos (COBIT), diagnóstico estratégico (SWOT/BSC) e construção de Business Case para estruturação de governança, riscos e conformidade em empresa de serviços de TI.  
+**Competências:** GRC · Governança de TI · COBIT · ITIL · Balanced Scorecard (BSC) · Business Case  
 [Ver repositório do projeto →](#)
 
 ### Auditoria de Segurança da Informação e Gestão de Riscos de TI
 **Estudo de Caso Empresarial**  
-Avaliação de maturidade de segurança da informação, mapeamento de ativos críticos, avaliação qualitativa e quantitativa de riscos e auditoria de conformidade com base na ISO 27002 e COBIT.  
-**Competências:** Auditoria de TI · Gestão de Riscos · ISO 27002 · COBIT · Mapa de Calor  
+Avaliação prática da efetividade de controles de segurança, mapeamento de ativos críticos e estruturação de planos de mitigação alinhados à ISO 27002 e LGPD em contexto empresarial real (foco em processos de RH).  
+**Competências:** Auditoria de TI · Gestão de Riscos · ISO 27002 · LGPD · Mapa de Calor · Valoração de Ativos  
 [Ver repositório do projeto →](#)
 
 ---
@@ -50,7 +44,7 @@ Avaliação de maturidade de segurança da informação, mapeamento de ativos cr
 
 ### RiskGov — Monitoramento & Simulação de Riscos de TI
 **Ecossistema Estratégico de GRC**  
-Projeto de maior abrangência, concebido para conectar indicadores técnicos de infraestrutura à tomada de decisão executiva. Substitui matrizes de risco estáticas por monitoramento dinâmico (G-KRI), combinando simulação de crises em ambiente *safe-to-fail* com gamificação e automatização de evidências para conformidade normativa.  
+Projeto de maior abrangência, concebido para ampliar matrizes tradicionais com monitoramento dinâmico (G-KRI) e simulação de cenários, conectando a operação de TI à tomada de decisão executiva e automatizando evidências de conformidade.  
 **Competências:** GRC · Gestão de Riscos · ISO 31000 · ISO 27001 · NIST CSF · COBIT 2019 · Python · Streamlit · ArchiMate  
 [Ver repositório do projeto →](#)
 
@@ -117,4 +111,4 @@ Tem interesse em discutir governança, riscos ou algum destes projetos? Vamos co
 
 ## 🧭 Navegação do Portfólio
 
-[⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz)
+[⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz) 
