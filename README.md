@@ -26,6 +26,12 @@ Desenvolvimento de solução de e-commerce a partir de contexto empresarial real
 **Competências:** Engenharia de Requisitos · Modelagem de Dados · UI/UX · SQL  
 [Ver repositório do projeto →](#)
 
+### Planejamento Estratégico e Plano Diretor de TI (PDTI)
+**Projeto Aplicado em Contexto Empresarial**  
+Alinhamento estratégico entre TI e negócio, estruturação de portfólio de serviços, definição de KPIs e roadmap tecnológico para evolução da maturidade de governança em empresa de serviços de TI.  
+**Competências:** Governança de TI · PDTI · Balanced Scorecard (BSC) · ITIL · COBIT · KPIs · Roadmap Tecnológico  
+[Ver repositório do projeto →](#)
+
 ### Diagnóstico e Plano de Governança de TI e GRC
 **Projeto Aplicado em Contexto Empresarial**  
 Avaliação de maturidade de processos (COBIT), diagnóstico estratégico (SWOT/BSC) e construção de Business Case para estruturação de governança, riscos e conformidade em empresa de serviços de TI.  
