@@ -88,7 +88,7 @@ Iniciativas acadêmicas voltadas à criação de produtos, protótipos e soluç�
 **Produto EdTech**  
 Plataforma concebida para centralização de conteúdos acadêmicos, organização dos estudos e aplicação de recursos de Inteligência Artificial para otimização da rotina de aprendizado.  
 **Competências:** EdTech · IA · Product Discovery · UI/UX · LGPD  
-[Consultar Documentação e Evidências] (https://github.com/mighcruz/projeto-nest-portal-academico)
+[Consultar Documentação e Evidências](https://github.com/mighcruz/projeto-nest-portal-academico)
 
 ### Plataforma de Doações — Projeto Cidadania
 **Protótipo de Impacto Social**  
