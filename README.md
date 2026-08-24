@@ -94,7 +94,7 @@ Plataforma concebida para centralização de conteúdos acadêmicos, organizaç�
 **Protótipo de Impacto Social**  
 Plataforma digital destinada à conexão entre instituições assistenciais e potenciais doadores, com foco em usabilidade, validação de dados e transparência.  
 **Competências:** Front-end · UX · Pesquisa Qualitativa · Impacto Social  
-[Consultar Documentação e Evidências](#) *(Link pendente de definição)*
+[Consultar Documentação e Evidências](https://github.com/mighcruz/projeto-cidadania-plataforma-doacoes)
 
 ---
 
