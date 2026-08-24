@@ -52,7 +52,7 @@ Avaliação prática da efetividade de controles de segurança, mapeamento de at
 **Ecossistema Estratégico de GRC**  
 Projeto de maior abrangência, concebido para ampliar matrizes tradicionais com monitoramento dinâmico (G-KRI) e simulação de cenários, conectando a operação de TI à tomada de decisão executiva e automatizando evidências de conformidade.  
 **Competências:** GRC · Gestão de Riscos · ISO 31000 · ISO 27001 · NIST CSF · COBIT 2019 · Python · Streamlit · ArchiMate  
-[Consultar Documentação e Evidências](https://github.com/mighcruz/riskgov-grc-monitoring)
+[Consultar Documentação e Evidências](https://github.com/mighcruz/riskgov)
 
 ---
 
