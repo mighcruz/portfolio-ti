@@ -117,4 +117,4 @@ Tem interesse em discutir governança, riscos ou algum destes projetos? Vamos co
 
 ## 🧭 Navegação do Portfólio
 
-[⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz)
+[️◻ Voltar ao Perfil Principal](https://github.com/mighcruz) 
