@@ -82,7 +82,13 @@ Desenvolvimento de plataforma de gestão de serviços de TI aplicando conceitos 
 
 ## Projetos Complementares
 
-Iniciativas acadêmicas voltadas à criação de produtos, protótipos e soluções digitais, demonstrando amplitude de conhecimentos em desenvolvimento e inovação.
+Iniciativas acadêmicas voltadas à criação de produtos, protótipos e soluções digitais, demonstrando amplitude de conhecimentos em desenvolvimento, inovação e ética tecnológica.
+
+### IA com Propósito — Marketing Ético, Transparente e Responsável
+**Estratégia e Prototipagem Conceitual**  
+Estratégia e prototipagem de uma solução de marketing baseada em Inteligência Artificial, combinando inovação, produtividade, transparência e responsabilidade algorítmica.  
+**Competências:** Responsible AI · AI Ethics · AI Governance · LGPD · EU AI Act · Digital Marketing · ODS  
+[Consultar Documentação e Evidências](https://github.com/mighcruz/ia-com-proposito)
 
 ### Projeto Nest — Portal Acadêmico Integrado
 **Produto EdTech**  
@@ -117,4 +123,4 @@ Tem interesse em discutir governança, riscos ou algum destes projetos? Vamos co
 
 ## 🧭 Navegação do Portfólio
 
-[️◻ Voltar ao Perfil Principal](https://github.com/mighcruz) 
+[⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz)
