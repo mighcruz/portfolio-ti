@@ -64,7 +64,7 @@ Projetos desenvolvidos em ambientes acadêmicos, laboratoriais ou simulados, com
 **Projeto Técnico em Ambiente Controlado**  
 Avaliação de vulnerabilidades, análise manual, hardening e documentação de riscos em ambiente de laboratório, com foco na tradução de riscos técnicos em relatórios estratégicos de mitigação.  
 **Competências:** Pentest · Segurança da Informação · Hardening · CVSS · OSSTMM · PTES  
-[Consultar Documentação e Evidências](https://github.com/mighcruz/pentest-auditoria-seguranca-info)
+[Consultar Documentação e Evidências] **----------->>>>>>>>      Inserido na principal (retirar daqui) 26 08 26**
 
 ### Avaliação de Maturidade de Serviços de TI — GLPI / ITIL
 **Simulação Corporativa de ITSM**  
