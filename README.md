@@ -19,12 +19,6 @@ Este repositório funciona como um diretório central, organizando as evidência
 
 Projetos desenvolvidos em ambientes acadêmicos, laboratoriais ou simulados, com foco na aplicação prática de conceitos técnicos e frameworks de gestão de serviços.
 
-### Testes de Intrusão & Auditoria de Segurança da Informação
-**Projeto Técnico em Ambiente Controlado**  
-Avaliação de vulnerabilidades, análise manual, hardening e documentação de riscos em ambiente de laboratório, com foco na tradução de riscos técnicos em relatórios estratégicos de mitigação.  
-**Competências:** Pentest · Segurança da Informação · Hardening · CVSS · OSSTMM · PTES  
-[Consultar Documentação e Evidências] **----------->>>>>>>>      Inserido na principal (retirar daqui) 26 08 26**
-
 ### Avaliação de Maturidade de Serviços de TI — GLPI / ITIL
 **Simulação Corporativa de ITSM**  
 Avaliação da plataforma GLPI sob a perspectiva de gestão de serviços, processos e boas práticas de ITIL, incluindo configuração de workflows, RBAC e auditoria de funcionalidades.  
@@ -37,32 +31,17 @@ Desenvolvimento de plataforma de gestão de serviços de TI aplicando conceitos 
 **Competências:** Service Desk · ITIL · COBIT · DevOps · SLA · Workflows  
 [Consultar Documentação e Evidências](https://github.com/mighcruz/helpos-service-desk-itsm)
 
-
-
-
-
-
-
----
-
-## ⭐ Projeto em Destaque
-
-### RiskGov — Monitoramento & Simulação de Riscos de TI
-**Ecossistema Estratégico de GRC**  
-Projeto de maior abrangência, concebido para ampliar matrizes tradicionais com monitoramento dinâmico (G-KRI) e simulação de cenários, conectando a operação de TI à tomada de decisão executiva e automatizando evidências de conformidade.  
-**Competências:** GRC · Gestão de Riscos · ISO 31000 · ISO 27001 · NIST CSF · COBIT 2019 · Python · Streamlit · ArchiMate  
-[Consultar Documentação e Evidências](https://github.com/mighcruz/riskgov)
+### Testes de Intrusão & Auditoria de Segurança da Informação
+**Projeto Técnico em Ambiente Controlado**  
+Avaliação de vulnerabilidades, análise manual, hardening e documentação de riscos em ambiente de laboratório, com foco na tradução de riscos técnicos em relatórios estratégicos de mitigação.  
+**Competências:** Pentest · Segurança da Informação · Hardening · CVSS · OSSTMM · PTES  
+[Consultar Documentação e Evidências] 
 
 ---
-## Projetos Aplicados em Contexto Empresarial
+
+##  Projetos Aplicados em Contexto Empresarial - (Governança, Segurança e Tecnologia)
 
 Projetos desenvolvidos a partir de problemas, processos ou ambientes de organizações reais, com aplicação prática de conceitos e frameworks de mercado.
-
-### Vovó Eva Orgânicos
-**Modelagem e Desenvolvimento de Software**  
-Desenvolvimento de solução de e-commerce a partir de contexto empresarial real, envolvendo levantamento de requisitos, modelagem de dados, prototipagem UI/UX e validação de processos de negócio.  
-**Competências:** Engenharia de Requisitos · Modelagem de Dados · UI/UX · SQL  
-[Consultar Documentação e Evidências](https://github.com/mighcruz/vovo-eva-organicos-ecommerce)
 
 ### Planejamento Estratégico e Plano Diretor de TI (PDTI)
 **Projeto Aplicado em Contexto Empresarial**  
@@ -81,6 +60,12 @@ Avaliação de maturidade de processos (COBIT), diagnóstico estratégico (SWOT/
 Avaliação prática da efetividade de controles de segurança, mapeamento de ativos críticos e estruturação de planos de mitigação alinhados à ISO 27002 e LGPD em contexto empresarial real (foco em processos de RH).  
 **Competências:** Auditoria de TI · Gestão de Riscos · ISO 27002 · LGPD · Mapa de Calor · Valoração de Ativos  
 [Consultar Documentação e Evidências](https://github.com/mighcruz/auditoria-seguranca-rh)
+
+### Vovó Eva Orgânicos
+**Modelagem e Desenvolvimento de Software**  
+Desenvolvimento de solução de e-commerce a partir de contexto empresarial real, envolvendo levantamento de requisitos, modelagem de dados, prototipagem UI/UX e validação de processos de negócio.  
+**Competências:** Engenharia de Requisitos · Modelagem de Dados · UI/UX · SQL  
+[Consultar Documentação e Evidências](https://github.com/mighcruz/vovo-eva-organicos-ecommerce)
 
 ---
 
@@ -105,6 +90,16 @@ Plataforma concebida para centralização de conteúdos acadêmicos, organizaç�
 Plataforma digital destinada à conexão entre instituições assistenciais e potenciais doadores, com foco em usabilidade, validação de dados e transparência.  
 **Competências:** Front-end · UX · Pesquisa Qualitativa · Impacto Social  
 [Consultar Documentação e Evidências](https://github.com/mighcruz/projeto-cidadania-plataforma-doacoes)
+
+---
+
+## ⭐ Projeto em Destaque
+
+### RiskGov — Monitoramento & Simulação de Riscos de TI
+**Ecossistema Estratégico de GRC**  
+Projeto de maior abrangência, concebido para ampliar matrizes tradicionais com monitoramento dinâmico (G-KRI) e simulação de cenários, conectando a operação de TI à tomada de decisão executiva e automatizando evidências de conformidade.  
+**Competências:** GRC · Gestão de Riscos · ISO 31000 · ISO 27001 · NIST CSF · COBIT 2019 · Python · Streamlit · ArchiMate  
+[Consultar Documentação e Evidências](https://github.com/mighcruz/riskgov)
 
 ---
 
