@@ -15,7 +15,45 @@ Este repositório funciona como um diretório central, organizando as evidência
 - [Sobre a Documentação](#sobre-a-documentação)
 
 ---
+## Governança, Segurança e Tecnologia
 
+Projetos desenvolvidos em ambientes acadêmicos, laboratoriais ou simulados, com foco na aplicação prática de conceitos técnicos e frameworks de gestão de serviços.
+
+### Testes de Intrusão & Auditoria de Segurança da Informação
+**Projeto Técnico em Ambiente Controlado**  
+Avaliação de vulnerabilidades, análise manual, hardening e documentação de riscos em ambiente de laboratório, com foco na tradução de riscos técnicos em relatórios estratégicos de mitigação.  
+**Competências:** Pentest · Segurança da Informação · Hardening · CVSS · OSSTMM · PTES  
+[Consultar Documentação e Evidências] **----------->>>>>>>>      Inserido na principal (retirar daqui) 26 08 26**
+
+### Avaliação de Maturidade de Serviços de TI — GLPI / ITIL
+**Simulação Corporativa de ITSM**  
+Avaliação da plataforma GLPI sob a perspectiva de gestão de serviços, processos e boas práticas de ITIL, incluindo configuração de workflows, RBAC e auditoria de funcionalidades.  
+**Competências:** Service Desk · ITIL · COBIT · Gestão de Ativos · RBAC  
+[Consultar Documentação e Evidências](https://github.com/mighcruz/avaliacao-maturidade-glpi-itsm)
+
+### HelpOS — Plataforma de Service Desk
+**Desenvolvimento de Solução de ITSM**  
+Desenvolvimento de plataforma de gestão de serviços de TI aplicando conceitos de ITIL, COBIT e engenharia de software, com foco em automação de incidentes e workflows de SLA.  
+**Competências:** Service Desk · ITIL · COBIT · DevOps · SLA · Workflows  
+[Consultar Documentação e Evidências](https://github.com/mighcruz/helpos-service-desk-itsm)
+
+
+
+
+
+
+
+---
+
+## ⭐ Projeto em Destaque
+
+### RiskGov — Monitoramento & Simulação de Riscos de TI
+**Ecossistema Estratégico de GRC**  
+Projeto de maior abrangência, concebido para ampliar matrizes tradicionais com monitoramento dinâmico (G-KRI) e simulação de cenários, conectando a operação de TI à tomada de decisão executiva e automatizando evidências de conformidade.  
+**Competências:** GRC · Gestão de Riscos · ISO 31000 · ISO 27001 · NIST CSF · COBIT 2019 · Python · Streamlit · ArchiMate  
+[Consultar Documentação e Evidências](https://github.com/mighcruz/riskgov)
+
+---
 ## Projetos Aplicados em Contexto Empresarial
 
 Projetos desenvolvidos a partir de problemas, processos ou ambientes de organizações reais, com aplicação prática de conceitos e frameworks de mercado.
@@ -43,40 +81,6 @@ Avaliação de maturidade de processos (COBIT), diagnóstico estratégico (SWOT/
 Avaliação prática da efetividade de controles de segurança, mapeamento de ativos críticos e estruturação de planos de mitigação alinhados à ISO 27002 e LGPD em contexto empresarial real (foco em processos de RH).  
 **Competências:** Auditoria de TI · Gestão de Riscos · ISO 27002 · LGPD · Mapa de Calor · Valoração de Ativos  
 [Consultar Documentação e Evidências](https://github.com/mighcruz/auditoria-seguranca-rh)
-
----
-
-## ⭐ Projeto em Destaque
-
-### RiskGov — Monitoramento & Simulação de Riscos de TI
-**Ecossistema Estratégico de GRC**  
-Projeto de maior abrangência, concebido para ampliar matrizes tradicionais com monitoramento dinâmico (G-KRI) e simulação de cenários, conectando a operação de TI à tomada de decisão executiva e automatizando evidências de conformidade.  
-**Competências:** GRC · Gestão de Riscos · ISO 31000 · ISO 27001 · NIST CSF · COBIT 2019 · Python · Streamlit · ArchiMate  
-[Consultar Documentação e Evidências](https://github.com/mighcruz/riskgov)
-
----
-
-## Governança, Segurança e Tecnologia
-
-Projetos desenvolvidos em ambientes acadêmicos, laboratoriais ou simulados, com foco na aplicação prática de conceitos técnicos e frameworks de gestão de serviços.
-
-### Testes de Intrusão & Auditoria de Segurança da Informação
-**Projeto Técnico em Ambiente Controlado**  
-Avaliação de vulnerabilidades, análise manual, hardening e documentação de riscos em ambiente de laboratório, com foco na tradução de riscos técnicos em relatórios estratégicos de mitigação.  
-**Competências:** Pentest · Segurança da Informação · Hardening · CVSS · OSSTMM · PTES  
-[Consultar Documentação e Evidências] **----------->>>>>>>>      Inserido na principal (retirar daqui) 26 08 26**
-
-### Avaliação de Maturidade de Serviços de TI — GLPI / ITIL
-**Simulação Corporativa de ITSM**  
-Avaliação da plataforma GLPI sob a perspectiva de gestão de serviços, processos e boas práticas de ITIL, incluindo configuração de workflows, RBAC e auditoria de funcionalidades.  
-**Competências:** Service Desk · ITIL · COBIT · Gestão de Ativos · RBAC  
-[Consultar Documentação e Evidências](https://github.com/mighcruz/avaliacao-maturidade-glpi-itsm)
-
-### HelpOS — Plataforma de Service Desk
-**Desenvolvimento de Solução de ITSM**  
-Desenvolvimento de plataforma de gestão de serviços de TI aplicando conceitos de ITIL, COBIT e engenharia de software, com foco em automação de incidentes e workflows de SLA.  
-**Competências:** Service Desk · ITIL · COBIT · DevOps · SLA · Workflows  
-[Consultar Documentação e Evidências](https://github.com/mighcruz/helpos-service-desk-itsm)
 
 ---
 
