@@ -4,6 +4,7 @@ Os projetos deste portfólio foram desenvolvidos no contexto da formação em Te
 
 Este repositório funciona como um diretório central, organizando as evidências práticas de competências em Governança de TI, GRC, Gestão de Riscos, Segurança da Informação e Processos.
 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ---
 
 ## 🧭 Navegação
