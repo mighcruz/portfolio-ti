@@ -4,19 +4,10 @@ Os projetos deste portfólio foram desenvolvidos no contexto da formação em Te
 
 Este repositório funciona como um diretório central, organizando as evidências práticas de competências em Governança de TI, GRC, Gestão de Riscos, Segurança da Informação e Processos.
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
----
 
-## 🧭 Navegação
-
-- [Projetos Aplicados em Contexto Empresarial](#projetos-aplicados-em-contexto-empresarial)
-- [⭐ Projeto em Destaque](#-projeto-em-destaque)
-- [Governança, Segurança e Tecnologia](#governança-segurança-e-tecnologia)
-- [Projetos Complementares](#projetos-complementares)
-- [Sobre a Documentação](#sobre-a-documentação)
 
 ---
-## Governança, Segurança e Tecnologia
+# Governança, Segurança e Tecnologia
 
 Projetos desenvolvidos em ambientes acadêmicos, laboratoriais ou simulados, com foco na aplicação prática de conceitos técnicos e frameworks de gestão de serviços.
 
@@ -40,7 +31,7 @@ Avaliação de vulnerabilidades, análise manual, hardening e documentação de 
 
 ---
 
-##  Projetos Aplicados em Contexto Empresarial - (Governança, Segurança e Tecnologia)
+#  Projetos Aplicados em Contexto Empresarial - (Governança, Segurança e Tecnologia)
 
 Projetos desenvolvidos a partir de problemas, processos ou ambientes de organizações reais, com aplicação prática de conceitos e frameworks de mercado.
 
@@ -124,3 +115,9 @@ Tem interesse em discutir governança, riscos ou algum destes projetos? Vamos co
 ## 🧭 Navegação do Portfólio
 
 [⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz)
+
+
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+---
+
+
