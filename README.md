@@ -41,7 +41,7 @@ Alinhamento estratégico entre TI e negócio, estruturação de portfólio de se
 **Competências:** Governança de TI · PDTI · Balanced Scorecard (BSC) · ITIL · COBIT · KPIs · Roadmap Tecnológico  
 [Consultar Documentação e Evidências](https://github.com/mighcruz/planejamento-estrategico-pdti)
 
-### Diagnóstico e Plano de Governança de TI e GRC
+### Auditoria e Plano de Governança de TI e GRC
 **Projeto Aplicado em Contexto Empresarial**  
 Avaliação de maturidade de processos (COBIT), diagnóstico estratégico (SWOT/BSC) e construção de Business Case para estruturação de governança, riscos e conformidade em empresa de serviços de TI.  
 **Competências:** GRC · Governança de TI · COBIT · ITIL · Balanced Scorecard (BSC) · Business Case  
