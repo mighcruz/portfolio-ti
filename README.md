@@ -1,6 +1,7 @@
 # Portfólio de Projetos em Tecnologia da Informação
 
-Os projetos deste portfólio foram desenvolvidos no contexto da formação em Tecnologia da Informação. Parte deles foi aplicada a contextos empresariais reais, enquanto outros foram desenvolvidos em ambientes acadêmicos, laboratoriais ou de prototipação.
+Os projetos deste portfólio foram desenvolvidos no contexto da formação em Tecnologia da Informação. Parte deles foi aplicada a 
+contextos empresariais reais, enquanto outros foram desenvolvidos em ambientes acadêmicos, laboratoriais ou de prototipação.
 
 Este repositório funciona como um diretório central, organizando as evidências práticas de competências em Governança de TI, GRC, Gestão de Riscos, Segurança da Informação e Processos.
 
@@ -9,7 +10,7 @@ Este repositório funciona como um diretório central, organizando as evidência
 ---
 # Governança, Segurança e Tecnologia
 
-Projetos desenvolvidos em ambientes acadêmicos, laboratoriais ou simulados, com foco na aplicação prática de conceitos técnicos e frameworks de gestão de serviços.
+Gestão de Serviços TI: Aplicação prática de conceitos técnicos e frameworks
 
 ### Avaliação de Maturidade de Serviços de TI — GLPI / ITIL
 **Simulação Corporativa de ITSM**  
@@ -85,7 +86,7 @@ Plataforma digital destinada à conexão entre instituições assistenciais e po
 
 ---
 
-## ⭐ Projeto em Destaque
+## Projeto em Destaque
 
 ### RiskGov — Monitoramento & Simulação de Riscos de TI
 **Ecossistema Estratégico de GRC**  
@@ -104,17 +105,14 @@ Cada projeto listado acima possui um repositório próprio (Nível 3), contendo 
 ---
 
 ## Contato
-
-Tem interesse em discutir governança, riscos ou algum destes projetos? Vamos conversar.
+Miguel H. Cruz
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelhcruz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mig.kruz@gmail.com)
 
 ---
 
-## 🧭 Navegação do Portfólio
-
-[⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz)
+## [⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz)
 
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
