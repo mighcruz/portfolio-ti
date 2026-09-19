@@ -27,11 +27,12 @@ Gestão de Serviços TI: Aplicação prática de conceitos técnicos e framework
 ![Service Desk](https://img.shields.io/badge/Service_Desk-007ACC?style=flat) ![ITIL](https://img.shields.io/badge/ITIL-003366?style=flat) ![COBIT](https://img.shields.io/badge/COBIT-333333?style=flat) ![DevOps](https://img.shields.io/badge/DevOps-2E7D32?style=flat) ![SLA](https://img.shields.io/badge/SLA-D97706?style=flat) ![Workflows](https://img.shields.io/badge/Workflows-7C3AED?style=flat)
 > Desenvolvimento de plataforma de gestão de serviços de TI aplicando conceitos de ITIL, COBIT e engenharia de software, com foco em automação de incidentes e workflows de SLA.  
 **Competências:** Service Desk · ITIL · COBIT · DevOps · SLA · Workflows  
-[Consultar Documentação e Evidências](https://github.com/mighcruz/helpos-service-desk-itsm)
+**[Consultar Documentação e Evidências](https://github.com/mighcruz/helpos-service-desk-itsm)**
 
 ### Testes de Intrusão & Auditoria de Segurança da Informação
 **Projeto Técnico em Ambiente Controlado**  
-Avaliação de vulnerabilidades, análise manual, hardening e documentação de riscos em ambiente de laboratório, com foco na tradução de riscos técnicos em relatórios estratégicos de mitigação.  
+![Pentest](https://img.shields.io/badge/Pentest-B91C1C?style=flat) ![Segurança da Informação](https://img.shields.io/badge/Segurança_da_Informação-1E3A8A?style=flat) ![Hardening](https://img.shields.io/badge/Hardening-334155?style=flat) ![CVSS](https://img.shields.io/badge/CVSS-DC2626?style=flat) ![OSSTMM](https://img.shields.io/badge/OSSTMM-0F766E?style=flat) ![PTES](https://img.shields.io/badge/PTES-4338CA?style=flat)
+> Avaliação de vulnerabilidades, análise manual, hardening e documentação de riscos em ambiente de laboratório, com foco na tradução de riscos técnicos em relatórios estratégicos de mitigação.  
 **Competências:** Pentest · Segurança da Informação · Hardening · CVSS · OSSTMM · PTES  
 [Consultar Documentação e Evidências] 
 
@@ -57,13 +58,15 @@ Avaliação de maturidade de processos (COBIT), diagnóstico estratégico (SWOT/
 **Estudo de Caso Empresarial**  
 Avaliação prática da efetividade de controles de segurança, mapeamento de ativos críticos e estruturação de planos de mitigação alinhados à ISO 27002 e LGPD em contexto empresarial real (foco em processos de RH).  
 **Competências:** Auditoria de TI · Gestão de Riscos · ISO 27002 · LGPD · Mapa de Calor · Valoração de Ativos  
-[Consultar Documentação e Evidências](https://github.com/mighcruz/auditoria-seguranca-rh)
+**[Consultar Documentação e Evidências](https://github.com/mighcruz/auditoria-seguranca-rh)**
 
 ### Vovó Eva Orgânicos
 **Modelagem e Desenvolvimento de Software**  
-Desenvolvimento de solução de e-commerce a partir de contexto empresarial real, envolvendo levantamento de requisitos, modelagem de dados, prototipagem UI/UX e validação de processos de negócio.  
+![Engenharia de Requisitos](https://img.shields.io/badge/Engenharia_de_Requisitos-007ACC?style=flat) ![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-003366?style=flat) ![UI/UX](https://img.shields.io/badge/UI%2FUX-333333?style=flat) ![SQL](https://img.shields.io/badge/SQL-2E7D32?style=flat)
+> Desenvolvimento de solução de e-commerce a partir de contexto empresarial real, envolvendo levantamento de requisitos, modelagem de dados, prototipagem UI/UX e validação de processos de negócio.  
 **Competências:** Engenharia de Requisitos · Modelagem de Dados · UI/UX · SQL  
-[Consultar Documentação e Evidências](https://github.com/mighcruz/vovo-eva-organicos-ecommerce)
+
+**[Consultar Documentação e Evidências](https://github.com/mighcruz/vovo-eva-organicos-ecommerce)**
 
 ---
 
