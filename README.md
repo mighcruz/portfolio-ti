@@ -14,13 +14,18 @@ Gestão de Serviços TI: Aplicação prática de conceitos técnicos e framework
 
 ### Avaliação de Maturidade de Serviços de TI — GLPI / ITIL
 **Simulação Corporativa de ITSM**  
-Avaliação da plataforma GLPI sob a perspectiva de gestão de serviços, processos e boas práticas de ITIL, incluindo configuração de workflows, RBAC e auditoria de funcionalidades.  
+![Service Desk](https://img.shields.io/badge/Service_Desk-007ACC?style=flat) 
+![ITIL](https://img.shields.io/badge/ITIL-003366?style=flat) 
+![COBIT](https://img.shields.io/badge/COBIT-333333?style=flat) 
+![Gestão de Ativos](https://img.shields.io/badge/Gestão_de_Ativos-2E7D32?style=flat) ![RBAC](https://img.shields.io/badge/RBAC-D97706?style=flat)
+> Avaliação da plataforma GLPI sob a perspectiva de gestão de serviços, processos e boas práticas de ITIL, incluindo configuração de workflows, RBAC e auditoria de funcionalidades.  
 **Competências:** Service Desk · ITIL · COBIT · Gestão de Ativos · RBAC  
 [Consultar Documentação e Evidências](https://github.com/mighcruz/avaliacao-maturidade-glpi-itsm)
 
 ### HelpOS — Plataforma de Service Desk
 **Desenvolvimento de Solução de ITSM**  
-Desenvolvimento de plataforma de gestão de serviços de TI aplicando conceitos de ITIL, COBIT e engenharia de software, com foco em automação de incidentes e workflows de SLA.  
+![Service Desk](https://img.shields.io/badge/Service_Desk-007ACC?style=flat) ![ITIL](https://img.shields.io/badge/ITIL-003366?style=flat) ![COBIT](https://img.shields.io/badge/COBIT-333333?style=flat) ![DevOps](https://img.shields.io/badge/DevOps-2E7D32?style=flat) ![SLA](https://img.shields.io/badge/SLA-D97706?style=flat) ![Workflows](https://img.shields.io/badge/Workflows-7C3AED?style=flat)
+> Desenvolvimento de plataforma de gestão de serviços de TI aplicando conceitos de ITIL, COBIT e engenharia de software, com foco em automação de incidentes e workflows de SLA.  
 **Competências:** Service Desk · ITIL · COBIT · DevOps · SLA · Workflows  
 [Consultar Documentação e Evidências](https://github.com/mighcruz/helpos-service-desk-itsm)
 
